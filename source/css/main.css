@@ -156,12 +156,12 @@ a {
 	white-space: nowrap;
 }
 #sidebar ul li a {
-	color: #999;
+	color: #ccc;
 	font-size: 14px;
 }
 
 #sidebar ul li a:hover{
-	color: #ccc;
+	color: #999;
 	border-bottom: 1px solid #ccc;
 }
 #sidebar .active a{
@@ -172,6 +172,9 @@ a {
 	color: #999;
 	font-size: 8px;
 	vertical-align: middle;
+}
+#sidebar .article-toc ul li a {
+	color: #999
 }
 .article-toc .level_1 {
 	margin-left: 0px;
@@ -409,4 +412,9 @@ table td {
 	#sidebar {
 		opacity: 0.95;
 	}
+}
+
+.katex-display {
+	color: #020252;
+	font-size: 14px;
 }
