@@ -338,8 +338,9 @@ a {
 
 #article-content a {
 	color: #f22f27;
-	text-decoration: none;
+	text-decoration: underline;
 }
+
 #article-content a:hover {
 	color: #f55852;
 	text-decoration: underline;
