@@ -355,6 +355,12 @@ a {
 	margin-bottom: 15px;
 	height: auto;
 }
+#article-content figure figcaption {
+	text-align: center;
+	font-size: 14px;
+	color: #aaa;
+	line-height: 20px;
+}
 #article-content pre {
 	font-size: 14px;
 	margin: 20px 0 15px;
