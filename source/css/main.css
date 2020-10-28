@@ -152,8 +152,10 @@ a {
 	padding: 0px 5px 5px 20px;
 }
 #sidebar ul li {
+	color: #ccc;
 	list-style: none;
 	white-space: nowrap;
+	line-height: 28px;
 }
 #sidebar ul li a {
 	color: #ccc;
