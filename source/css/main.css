@@ -343,6 +343,10 @@ a {
 	text-decoration: underline;
 }
 
+#article-content blockquote a {
+	color: inherit;
+}
+
 #article-content a:hover {
 	color: #f55852;
 	text-decoration: underline;
