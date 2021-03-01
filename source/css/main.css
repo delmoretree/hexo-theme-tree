@@ -362,6 +362,12 @@ a {
 	margin-bottom: 15px;
 	height: auto;
 }
+
+#article-content figure img {
+	margin-left: auto;
+	margin-right: auto;
+}
+
 #article-content figure figcaption {
 	text-align: center;
 	font-size: 14px;
