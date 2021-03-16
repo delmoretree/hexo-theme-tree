@@ -383,6 +383,13 @@ a {
 	color:#6a737d;
 	border-left: .25em solid #dfe2e5;
 }
+
+#article-content blockquote ul code,
+#article-content blockquote ol code,
+#article-content blockquote p code{
+	color: #c67489;
+	background-color: #faeeee;
+}
 #article-content p {
 	line-height: 28px;
 	margin-bottom: 10px;
